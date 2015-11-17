@@ -8,6 +8,9 @@ As you go through these exercises, make sure to commit after each change, and pu
 2. Create a file called `[yourname]_fav_foods.txt`
 3. In the file, list your 3 favorite foods from most favorite to least favorite. List only one food per line. 
 5. Save the file.
+- pasta
+- steak
+- cheese 
 *Remember to commit your changes at this point!*
 4. Repeat steps 2-4 with your pair’s favorite foods.
 6. Create a python file inside `file-exercises` called `compare_favs.py`
