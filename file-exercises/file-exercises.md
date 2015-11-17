@@ -27,6 +27,9 @@ alba_favs = open("alba_fav_foods.txt")
 abla = alba_favs.read() 
 print abla
   5. read all of your pair’s favorite foods into a list called `[their_name]_favs` 
+vicky_favs = open("vicky_fav_foods.txt")
+vicky = vicky_favs.read()
+print vicky 
   6. close the file <br> *Note: is there a way to avoid having this similar code repeated?  Try to think of a way to have the file reading code only once in your program, but still read both files! And remember to commit your changes!*
   7. create a function called `compare_favs` that takes two arguments, the list of your favs and the list of your pair’s. 
     1. This function should print "Our favorite foods are the same!" if your top favorite food is the same as your pairs.
