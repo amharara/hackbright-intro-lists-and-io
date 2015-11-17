@@ -19,7 +19,8 @@ As you go through these exercises, make sure to commit after each change, and pu
 6. Create a python file inside `file-exercises` called `compare_favs.py`
 7. Inside of `compare_favs.py` do the following:
   1. open the file of your favorite foods.
-  2. read all of your favorite foods into a list called `[your_name]_favs` <br>  *Remember to commit your changes at this point!*
+  2. read all of your favorite foods into a list called `[your_name]_favs` <br>  *Remember to commit your changes at this point!* 
+alba_foods = ["pasta", "steak", "cheese"] 
   3. close the file
   4. open the file of your pair’s favorite foods.
   5. read all of your pair’s favorite foods into a list called `[their_name]_favs` 
