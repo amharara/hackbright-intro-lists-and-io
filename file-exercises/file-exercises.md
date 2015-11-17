@@ -13,6 +13,9 @@ As you go through these exercises, make sure to commit after each change, and pu
 - cheese 
 *Remember to commit your changes at this point!*
 4. Repeat steps 2-4 with your pair’s favorite foods.
+- burritos
+- apples
+- waffles 
 6. Create a python file inside `file-exercises` called `compare_favs.py`
 7. Inside of `compare_favs.py` do the following:
   1. open the file of your favorite foods.
