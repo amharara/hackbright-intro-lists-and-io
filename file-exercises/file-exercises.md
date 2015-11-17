@@ -20,9 +20,12 @@ As you go through these exercises, make sure to commit after each change, and pu
 7. Inside of `compare_favs.py` do the following:
   1. open the file of your favorite foods.
   2. read all of your favorite foods into a list called `[your_name]_favs` <br>  *Remember to commit your changes at this point!* 
-alba_foods = ["pasta", "steak", "cheese"] 
+alba_favs = ["pasta", "steak", "cheese"] 
   3. close the file
   4. open the file of your pair’s favorite foods.
+alba_favs = open("alba_fav_foods.txt")
+abla = alba_favs.read() 
+print abla
   5. read all of your pair’s favorite foods into a list called `[their_name]_favs` 
   6. close the file <br> *Note: is there a way to avoid having this similar code repeated?  Try to think of a way to have the file reading code only once in your program, but still read both files! And remember to commit your changes!*
   7. create a function called `compare_favs` that takes two arguments, the list of your favs and the list of your pair’s. 
